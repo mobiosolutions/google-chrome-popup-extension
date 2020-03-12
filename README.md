@@ -23,40 +23,40 @@
 4. Save file.
 5. Open chrome -> open setting menu -> click on more tools.
 
-![picture](screenshots/screenshot1.png)
+![picture](Screenshots/screenshot1.png)
 
 6. Then click on extension which will open extensions window.
 
-![picture](screenshots/screenshot2.png)
+![picture](Screenshots/screenshot2.png)
 
 7. To load your extension in browser enable developer mode.
 
-![picture](screenshots/screenshot3.png)
+![picture](Screenshots/screenshot3.png)
 
 8. Then click on load unpacked and select your extension folder.
 
-![picture](screenshots/screenshot4.png)
+![picture](Screenshots/screenshot4.png)
 
 9. Click on select folder.
 
-![picture](screenshots/screenshot5.png)
+![picture](Screenshots/screenshot5.png)
 
 10. Your extension is loaded in chrome!
 
-![picture](screenshots/screenshot6.png)
+![picture](Screenshots/screenshot6.png)
 
 ## How to create quotes extension for chrome?
 1. Files required for this extension,
-   - Quotes api
+   - Quotes api: 
      Quotes api to fetch data from it and show in extension
 
-   - Manifest.json
+   - Manifest.json: 
      To create chrome extension this file is required with its basic required attributes (Refer basic steps for creating chrome extension)
 
-   - Html file
+   - Html file: 
      To show activity on your extension
 
-   - Js/css files
+   - Js/css files: 
      Js file to fetch the api using jquery or any other script
      Css to stylize your appearance of html file
 
